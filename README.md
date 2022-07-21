@@ -1,7 +1,7 @@
 ### Olá! Eu sou Eduardo Rangel 👋
 
 
-- 🔭 Atualmente em busca de uma vaga
+- 🔭 Atualmente em busca de uma vaga como desenvolvedor Front End
 - 🌱 Estudando: testes(jest)
 - 😄 Pronouns: ele/dele
 ##
